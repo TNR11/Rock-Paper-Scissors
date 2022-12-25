@@ -13,12 +13,12 @@ Program makes use of user input, input validation, random number generation, con
 
 <h2>Environments Used </h2>
 
-- <b>Mac OS 12.2.1</b> (21H2)
+- <b>Mac OS 12.2.1</b> (Monterey)
 
 <h2>Program output:</h2>
 
 <p align="center">
-Demo of game in action (Note: not all rounds shown hence reason for total wins tally)<br/>
+Demo of game in action (Note: not all rounds shown, hence reason for seemingly incorrect wins tally)<br/>
 <img src="https://i.imgur.com/vKl7QQy.png"/>
 <br />
 
