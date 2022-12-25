@@ -18,7 +18,7 @@ Program makes use of user input, input validation, random number generation, con
 <h2>Program output:</h2>
 
 <p align="center">
-Demo of game in action <br/>
+Demo of game in action (Note: not all rounds shown hence reason for total wins tally)<br/>
 <img src="https://i.imgur.com/vKl7QQy.png"/>
 <br />
 
