@@ -1,7 +1,8 @@
 <h1>Rock Paper Scissors</h1>
 
 <h2>Description</h2>
-A simple game of rock, paper, scissors between one user and the computer.  
+A simple game of rock, paper, scissors between a user and their computer.
+Program makes use of user input, input validation, random number generation, conditional statements and a loop.
 <br />
 
 
@@ -17,8 +18,8 @@ A simple game of rock, paper, scissors between one user and the computer.
 <h2>Program output:</h2>
 
 <p align="center">
-Output in Eclipse IDE console <br/>
-<img src="https://i.imgur.com/LMcnl4T.jpg"/>
+Demo of game in action <br/>
+<img src="https://i.imgur.com/vKl7QQy.png"/>
 <br />
 
 </p>
